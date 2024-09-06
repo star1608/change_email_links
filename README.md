@@ -16,10 +16,4 @@ Save Modified Content:
 
 Saves the modified HTML content to a file named output.html.
 Saves the modified email content (with updated links) back to a file named output.eml.
-User Notification:
 
-After saving the files, the script informs the user of the file names and locations where the updated content has been saved.
-Additional Information:
-
-Includes copyright notice for Eyal Zabarsky 2024 and a warranty disclaimer.
-Handles Unicode and file encoding issues to ensure proper saving of the modified email content.
